@@ -1,5 +1,12 @@
+<<<<<<< HEAD
  ljsf
  
 a jsdf'z sdklj
  'zdjklfg
 addding pull files
+||||||| merged common ancestors
+addding pull files
+=======
+KLJJf'lD
+ LKJFDaddding pull files
+>>>>>>> 46e68c0d2a2149bb1c838c50af43efca5ad9466f
